@@ -1,8 +1,8 @@
 {
   "name": "angular-app-loaded",
   "main": [
-    "angular/app-loaded.js",
-    "angular/app-loaded.css"
+    "angular-app-loaded.js",
+    "angular-app-loaded.css"
   ],
   "version": "1.0.0",
   "homepage": "https://github.com/karolsluszniak/angular-app-loaded",

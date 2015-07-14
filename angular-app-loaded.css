@@ -1,0 +1,2 @@
+[ng-app]:not(.ng-app-loaded) .app-show { display: none !important; }
+[ng-app].ng-app-loaded       .app-hide { display: none !important; }

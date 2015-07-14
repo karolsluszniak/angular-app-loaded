@@ -1,0 +1,17 @@
+{
+  "name": "angular-app-loaded",
+  "main": [
+    "angular/app-loaded.js",
+    "angular/app-loaded.css"
+  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/karolsluszniak/angular-app-loaded",
+  "authors": [
+    "Karol Sluszniak <ksluszniak@gmail.com>"
+  ],
+  "description": "Solves the issue with angular crap ({{}}'s etc) showing up before it loads.",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT"
+}
